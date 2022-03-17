@@ -1,0 +1,37 @@
+body 
+{
+    position: absolute;
+    font-family: roboto;
+    left: 500px;
+    top:40px;
+    background: rgb(248, 249, 250);
+   
+}
+.sopa th, td
+{
+    position: relative;
+    left: 400px;
+    font-weight: 250;
+    width: 35px;
+    height: 35px;
+    margin: 5PX;
+    background-color: rgb(247, 243, 243);
+    
+   
+}
+
+.palabras td
+{
+    position: relative;
+    top: -680px;
+    left: -480px;
+    font-family: roboto;
+    text-align: left;
+    border: 1px solid black;
+    padding-right: 30px;
+}
+
+.a
+{
+background-color: rgb(131, 87, 233);
+}
